@@ -61,6 +61,14 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+
+            .fl {
+                float: left;
+            }
+
+            .fr {
+                float: right;
+            }
         </style>
     </head>
     <body>
@@ -85,10 +93,14 @@
                 </div>
 
                 <div class="links">
-                    <img src="https://www.pinclipart.com/picdir/big/35-353227_deploying-a-multi-arch-docker-registry-logo-docker.png" alt="docker" height="200" />
-                    <br />
-                    <br />
-                    <h1>Hello Everyone!</h1>
+                    <div class="fl">
+                        <img src="https://logos-download.com/wp-content/uploads/2016/09/Laravel_logo.png" alt="laravel" height="200" />
+                        <h1>Hi Docker!</h1>
+                    </div>
+                    <div class="fr">
+                        <img src="https://www.pinclipart.com/picdir/big/35-353227_deploying-a-multi-arch-docker-registry-logo-docker.png" alt="docker" height="200"/>
+                        <h1>Hi Laravel!</h1>
+                    </div>
                 </div>
             </div>
         </div>
