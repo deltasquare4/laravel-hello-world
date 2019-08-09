@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel Starter Template</title>
+        <title>Laravel Hello World</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -89,17 +89,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Starter Template
+                    Laravel Hello World!
                 </div>
 
                 <div class="links">
                     <div class="fl">
                         <img src="https://logos-download.com/wp-content/uploads/2016/09/Laravel_logo.png" alt="laravel" height="200" />
-                        <h1>Hi Docker!</h1>
                     </div>
                     <div class="fr">
                         <img src="https://www.pinclipart.com/picdir/big/35-353227_deploying-a-multi-arch-docker-registry-logo-docker.png" alt="docker" height="200"/>
-                        <h1>Hi Laravel!</h1>
                     </div>
                 </div>
             </div>
